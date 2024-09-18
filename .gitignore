@@ -75,7 +75,7 @@ target/
 *.gexf
 *.swo
 *.swp
-
+*.csv
 # Caps
 *.pcapng
 *.pcap
